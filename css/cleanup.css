@@ -1,7 +1,7 @@
 /* write your override styles here */
 #wall .tag-1{ display : none;}
 
-#wall div #tag-2 {display: none;}
+body #wall div #tag-2 {display: none;}
 div #wall  #tag-3 .slick .wicked {display: none;}
 #wall div .parent #tag-4 {display: none;}
 #wall div .parent #tag-5 {display: none;}
